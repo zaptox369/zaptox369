@@ -1,5 +1,5 @@
 # 💫 About Me:
-A personal project, side hustle<br>Open source projects, hackathons, or your niche<br>e.g., "AI/ML projects or developer tools"<br>machine learning and DSA<br>"I debug better at 2AM than 2PM"
+working on a personal project, side hustle<br>Open source projects, hackathons, or your niche<br>e.g., "AI/ML projects or developer tools"<br>machine learning and DSA<br>"I debug better at 2AM than 2PM"
 
 
 ## 🌐 Socials:
